@@ -20,7 +20,7 @@ License:                Custom
 URL:                    %{gourl}
 Source0:                %{gosource}
 
-Provides:               strk.kbt.io/projects/go/libravatar = %{version}-%{release}
+Provides:               golang(strk.kbt.io/projects/go/libravatar) = %{version}-%{release}
 
 
 %description
