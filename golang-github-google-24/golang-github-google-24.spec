@@ -1,7 +1,7 @@
 %global globalversion   24.0.1
 
-%global goipath         github.com/google/go-github
-%global tag             v24.0.1
+%global goipath         github.com/google/go-github/v24
+%global tag             v%{globalversion}
 %global scm             git
 
 %gometa
