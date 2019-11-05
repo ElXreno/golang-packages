@@ -1,24 +1,22 @@
-%global globalversion   24.0.1
-
-%global goipath         github.com/google/go-github
-%global tag             v24.0.1
+%global goipath         github.com/lunny/dingtalk_webhook
+%global commit          e3534c89ef969912856dfa39e56b09e58c5f5daf
 %global scm             git
 
 %gometa
 
 %global common_description %{expand:
-Go client library for accessing the GitHub API v3
+A library encapsulates requests for the webhook portion of Dingtalk.
 }
 
 %global golicenses      LICENSE
 %global godocs          README.md
 
 Name:                   %{goname}
-Version:                %{globalversion}
+Version:                0
 Release:                1%{?dist}
-Summary:                Go client library for accessing the GitHub API v3
+Summary:                A library encapsulates requests for the webhook portion of Dingtalk.
 
-License:                BSDv3-Clause
+License:                MIT
 URL:                    %{gourl}
 Source0:                %{gosource}
 

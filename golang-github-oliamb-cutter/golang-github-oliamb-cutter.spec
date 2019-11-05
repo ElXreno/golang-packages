@@ -7,7 +7,7 @@
 %gometa
 
 %global common_description %{expand:
-A Go library to crop images
+A Go library to crop images.
 }
 
 %global golicenses      LICENSE
@@ -16,7 +16,7 @@ A Go library to crop images
 Name:                   %{goname}
 Version:                %{globalversion}
 Release:                1%{?dist}
-Summary:                A Go library to crop images
+Summary:                A Go library to crop images.
 
 License:                MIT
 URL:                    %{gourl}

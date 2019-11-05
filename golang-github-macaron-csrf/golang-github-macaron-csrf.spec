@@ -5,7 +5,7 @@
 %gometa
 
 %global common_description %{expand:
-Middleware csrf generates and validates CSRF tokens for Macaron
+Middleware csrf generates and validates CSRF tokens for Macaron.
 }
 
 %global golicenses      LICENSE
@@ -14,7 +14,7 @@ Middleware csrf generates and validates CSRF tokens for Macaron
 Name:                   %{goname}
 Version:                0
 Release:                1%{?dist}
-Summary:                Middleware csrf generates and validates CSRF tokens for Macaron
+Summary:                Middleware csrf generates and validates CSRF tokens for Macaron.
 
 License:                Apache-2.0
 URL:                    %{gourl}

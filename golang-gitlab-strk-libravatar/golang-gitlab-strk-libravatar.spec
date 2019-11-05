@@ -5,7 +5,7 @@
 %gometa
 
 %global common_description %{expand:
-Simple golang library for serving federated avatars
+Simple golang library for serving federated avatars.
 }
 
 %global golicenses      LICENSE
@@ -14,7 +14,7 @@ Simple golang library for serving federated avatars
 Name:                   %{goname}
 Version:                0
 Release:                1%{?dist}
-Summary:                Simple golang library for serving federated avatars
+Summary:                Simple golang library for serving federated avatars.
 
 License:                Custom
 URL:                    %{gourl}

@@ -5,7 +5,7 @@
 %gometa
 
 %global common_description %{expand:
-Middleware cache provides cache management for Macaron
+Middleware cache provides cache management for Macaron.
 }
 
 %global golicenses      LICENSE
@@ -14,7 +14,7 @@ Middleware cache provides cache management for Macaron
 Name:                   %{goname}
 Version:                0
 Release:                1%{?dist}
-Summary:                Middleware cache provides cache management for Macaron
+Summary:                Middleware cache provides cache management for Macaron.
 
 License:                Apache-2.0
 URL:                    %{gourl}

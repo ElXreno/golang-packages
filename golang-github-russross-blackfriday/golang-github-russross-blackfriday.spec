@@ -5,7 +5,7 @@
 %gometa
 
 %global common_description %{expand:
-Blackfriday is a Markdown processor implemented in Go
+Blackfriday is a Markdown processor implemented in Go.
 }
 
 %global golicenses      LICENSE
@@ -14,7 +14,7 @@ Blackfriday is a Markdown processor implemented in Go
 Name:                   %{goname}
 Version:                0
 Release:                1%{?dist}
-Summary:                Blackfriday is a Markdown processor implemented in Go
+Summary:                Blackfriday is a Markdown processor implemented in Go.
 
 License:                BSD
 URL:                    %{gourl}

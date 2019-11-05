@@ -5,7 +5,7 @@
 %gometa
 
 %global common_description %{expand:
-A library ???
+A library ???.
 }
 
 %global golicenses      LICENSE
@@ -14,7 +14,7 @@ A library ???
 Name:                   %{goname}
 Version:                0
 Release:                1%{?dist}
-Summary:                A library ???
+Summary:                A library ???.
 
 License:                MIT
 URL:                    %{gourl}

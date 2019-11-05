@@ -5,7 +5,7 @@
 %gometa
 
 %global common_description %{expand:
-A library to automatically detect charset of texts for Go programming language
+A library to automatically detect charset of texts for Go programming language.
 }
 
 %global golicenses      LICENSE
@@ -14,7 +14,7 @@ A library to automatically detect charset of texts for Go programming language
 Name:                   %{goname}
 Version:                0
 Release:                1%{?dist}
-Summary:                A library to automatically detect charset of texts for Go programming language
+Summary:                A library to automatically detect charset of texts for Go programming language.
 
 License:                Custom
 URL:                    %{gourl}

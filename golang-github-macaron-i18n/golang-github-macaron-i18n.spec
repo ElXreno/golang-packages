@@ -5,7 +5,7 @@
 %gometa
 
 %global common_description %{expand:
-Middleware i18n provides app Internationalization and Localization for Macaron
+Middleware i18n provides app Internationalization and Localization for Macaron.
 }
 
 %global golicenses      LICENSE
@@ -14,7 +14,7 @@ Middleware i18n provides app Internationalization and Localization for Macaron
 Name:                   %{goname}
 Version:                0
 Release:                1%{?dist}
-Summary:                Middleware i18n provides app Internationalization and Localization for Macaron
+Summary:                Middleware i18n provides app Internationalization and Localization for Macaron.
 
 License:                Apache-2.0
 URL:                    %{gourl}

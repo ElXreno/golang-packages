@@ -7,7 +7,7 @@
 %gometa
 
 %global common_description %{expand:
-Extract urls from text using regular expressions
+Extract urls from text using regular expressions.
 }
 
 %global golicenses      LICENSE
@@ -16,7 +16,7 @@ Extract urls from text using regular expressions
 Name:                   %{goname}
 Version:                %{globalversion}
 Release:                1%{?dist}
-Summary:                Extract urls from text using regular expressions
+Summary:                Extract urls from text using regular expressions.
 
 License:                Custom
 URL:                    %{gourl}

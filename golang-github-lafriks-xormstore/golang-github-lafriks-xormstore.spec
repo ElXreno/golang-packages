@@ -1,13 +1,13 @@
 %global globalversion   1.0.0
 
 %global goipath         github.com/lafriks/xormstore
-%global tag             v{globalversion}
+%global tag             v%{globalversion}
 %global scm             git
 
 %gometa
 
 %global common_description %{expand:
-XORM backend for gorilla sessions
+XORM backend for gorilla sessions.
 }
 
 %global golicenses      LICENSE
@@ -16,7 +16,7 @@ XORM backend for gorilla sessions
 Name:                   %{goname}
 Version:                %{globalversion}
 Release:                1%{?dist}
-Summary:                XORM backend for gorilla sessions
+Summary:                XORM backend for gorilla sessions.
 
 License:                MIT
 URL:                    %{gourl}

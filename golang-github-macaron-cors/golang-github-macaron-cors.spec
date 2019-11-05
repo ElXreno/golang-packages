@@ -5,7 +5,7 @@
 %gometa
 
 %global common_description %{expand:
-Middleware that handles CORS requests & headers for Macaron
+Middleware that handles CORS requests & headers for Macaron.
 }
 
 %global golicenses      LICENSE
@@ -14,7 +14,7 @@ Middleware that handles CORS requests & headers for Macaron
 Name:                   %{goname}
 Version:                0
 Release:                1%{?dist}
-Summary:                Middleware that handles CORS requests & headers for Macaron
+Summary:                Middleware that handles CORS requests & headers for Macaron.
 
 License:                Apache-2.0
 URL:                    %{gourl}

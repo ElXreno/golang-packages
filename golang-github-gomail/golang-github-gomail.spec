@@ -7,7 +7,7 @@
 %gometa
 
 %global common_description %{expand:
-Gomail is a simple and efficient package to send emails
+Gomail is a simple and efficient package to send emails.
 }
 
 %global golicenses      LICENSE
@@ -16,7 +16,7 @@ Gomail is a simple and efficient package to send emails
 Name:                   %{goname}
 Version:                %{globalversion}
 Release:                1%{?dist}
-Summary:                Gomail is a simple and efficient package to send emails
+Summary:                Gomail is a simple and efficient package to send emails.
 
 License:                MIT
 URL:                    %{gourl}

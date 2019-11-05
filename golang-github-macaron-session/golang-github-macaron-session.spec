@@ -5,7 +5,7 @@
 %gometa
 
 %global common_description %{expand:
-Middleware session provides session management for Macaron
+Middleware session provides session management for Macaron.
 }
 
 %global golicenses      LICENSE
@@ -14,7 +14,7 @@ Middleware session provides session management for Macaron
 Name:                   %{goname}
 Version:                0
 Release:                1%{?dist}
-Summary:                Middleware session provides session management for Macaron
+Summary:                Middleware session provides session management for Macaron.
 
 License:                Apache-2.0
 URL:                    %{gourl}

@@ -5,7 +5,7 @@
 %gometa
 
 %global common_description %{expand:
-Package i18n is for app Internationalization and Localization
+Package i18n is for app Internationalization and Localization.
 }
 
 %global golicenses      LICENSE
@@ -14,7 +14,7 @@ Package i18n is for app Internationalization and Localization
 Name:                   %{goname}
 Version:                0
 Release:                1%{?dist}
-Summary:                Package i18n is for app Internationalization and Localization
+Summary:                Package i18n is for app Internationalization and Localization.
 
 License:                Apache-2.0
 URL:                    %{gourl}

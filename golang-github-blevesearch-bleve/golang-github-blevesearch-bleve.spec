@@ -5,7 +5,7 @@
 %gometa
 
 %global common_description %{expand:
-Modern text indexing in go
+Modern text indexing in go.
 }
 
 %global golicenses      LICENSE
@@ -14,7 +14,7 @@ Modern text indexing in go
 Name:                   %{goname}
 Version:                0
 Release:                1%{?dist}
-Summary:                Modern text indexing in go
+Summary:                Modern text indexing in go.
 
 License:                Apache-2.0
 URL:                    %{gourl}

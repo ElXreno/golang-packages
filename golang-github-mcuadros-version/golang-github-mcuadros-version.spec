@@ -5,7 +5,7 @@
 %gometa
 
 %global common_description %{expand:
-Version normalizer and comparison library for go
+Version normalizer and comparison library for Go.
 }
 
 %global golicenses      LICENSE
@@ -14,7 +14,7 @@ Version normalizer and comparison library for go
 Name:                   %{goname}
 Version:                0
 Release:                1%{?dist}
-Summary:                Version normalizer and comparison library for go
+Summary:                Version normalizer and comparison library for Go.
 
 License:                MIT
 URL:                    %{gourl}

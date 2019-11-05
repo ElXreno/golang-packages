@@ -7,7 +7,7 @@
 %gometa
 
 %global common_description %{expand:
-Goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications
+Goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
 }
 
 %global golicenses      LICENSE
@@ -16,7 +16,7 @@ Goth provides a simple, clean, and idiomatic way to write authentication package
 Name:                   %{goname}
 Version:                %{globalversion}
 Release:                1%{?dist}
-Summary:                Goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications
+Summary:                Goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
 
 License:                MIT
 URL:                    %{gourl}

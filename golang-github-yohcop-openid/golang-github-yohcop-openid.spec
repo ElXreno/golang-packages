@@ -5,7 +5,7 @@
 %gometa
 
 %global common_description %{expand:
-OpenID consumer implementation in Go
+OpenID consumer implementation in Go.
 }
 
 %global golicenses      LICENSE
@@ -14,7 +14,7 @@ OpenID consumer implementation in Go
 Name:                   %{goname}
 Version:                0
 Release:                1%{?dist}
-Summary:                OpenID consumer implementation in Go
+Summary:                OpenID consumer implementation in Go.
 
 License:                Apache-2.0
 URL:                    %{gourl}

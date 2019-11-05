@@ -5,7 +5,7 @@
 %gometa
 
 %global common_description %{expand:
-Converts HTML into text of the markdown-flavored variety
+Converts HTML into text of the markdown-flavored variety.
 }
 
 %global golicenses      LICENSE
@@ -14,7 +14,7 @@ Converts HTML into text of the markdown-flavored variety
 Name:                   %{goname}
 Version:                0
 Release:                1%{?dist}
-Summary:                Converts HTML into text of the markdown-flavored variety
+Summary:                Converts HTML into text of the markdown-flavored variety.
 
 License:                MIT
 URL:                    %{gourl}

@@ -5,7 +5,7 @@
 %gometa
 
 %global common_description %{expand:
-Middleware captcha provides captcha service for Macaron
+Middleware captcha provides captcha service for Macaron.
 }
 
 %global golicenses      LICENSE
@@ -14,7 +14,7 @@ Middleware captcha provides captcha service for Macaron
 Name:                   %{goname}
 Version:                0
 Release:                1%{?dist}
-Summary:                Middleware captcha provides captcha service for Macaron
+Summary:                Middleware captcha provides captcha service for Macaron.
 
 License:                Apache-2.0
 URL:                    %{gourl}

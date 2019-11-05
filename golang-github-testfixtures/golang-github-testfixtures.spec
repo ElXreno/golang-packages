@@ -7,7 +7,7 @@
 %gometa
 
 %global common_description %{expand:
-Rails-like test fixtures for Go
+Rails-like test fixtures for Go.
 }
 
 %global golicenses      LICENSE
@@ -16,7 +16,7 @@ Rails-like test fixtures for Go
 Name:                   %{goname}
 Version:                %{globalversion}
 Release:                1%{?dist}
-Summary:                Rails-like test fixtures for Go
+Summary:                Rails-like test fixtures for Go.
 
 License:                MIT
 URL:                    %{gourl}

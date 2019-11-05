@@ -5,7 +5,7 @@
 %gometa
 
 %global common_description %{expand:
-An explosive companion to the bleve indexing library
+An explosive companion to the bleve indexing library.
 }
 
 %global golicenses      LICENSE
@@ -14,7 +14,7 @@ An explosive companion to the bleve indexing library
 Name:                   %{goname}
 Version:                0
 Release:                1%{?dist}
-Summary:                An explosive companion to the bleve indexing library
+Summary:                An explosive companion to the bleve indexing library.
 
 License:                MIT
 URL:                    %{gourl}

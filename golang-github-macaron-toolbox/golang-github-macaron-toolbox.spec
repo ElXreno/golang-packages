@@ -5,7 +5,7 @@
 %gometa
 
 %global common_description %{expand:
-Middleware toolbox provides health chcek, pprof, profile and statistic services for Macaron
+Middleware toolbox provides health chcek, pprof, profile and statistic services for Macaron.
 }
 
 %global golicenses      LICENSE
@@ -14,7 +14,7 @@ Middleware toolbox provides health chcek, pprof, profile and statistic services 
 Name:                   %{goname}
 Version:                0
 Release:                1%{?dist}
-Summary:                Middleware toolbox provides health chcek, pprof, profile and statistic services for Macaron
+Summary:                Middleware toolbox provides health chcek, pprof, profile and statistic services for Macaron.
 
 License:                Apache-2.0
 URL:                    %{gourl}

@@ -5,7 +5,7 @@
 %gometa
 
 %global common_description %{expand:
-Level queue is a simple queue golang library base on go-leveldb
+Level queue is a simple queue golang library base on go-leveldb.
 }
 
 %global golicenses      LICENSE
@@ -14,7 +14,7 @@ Level queue is a simple queue golang library base on go-leveldb
 Name:                   %{goname}
 Version:                0
 Release:                1%{?dist}
-Summary:                Level queue is a simple queue golang library base on go-leveldb
+Summary:                Level queue is a simple queue golang library base on go-leveldb.
 
 License:                MIT
 URL:                    %{gourl}

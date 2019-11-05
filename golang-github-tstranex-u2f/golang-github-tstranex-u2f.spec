@@ -7,7 +7,7 @@
 %gometa
 
 %global common_description %{expand:
-Go package implements the parts of the FIDO U2F
+Go package implements the parts of the FIDO U2F.
 }
 
 %global golicenses      LICENSE
@@ -16,7 +16,7 @@ Go package implements the parts of the FIDO U2F
 Name:                   %{goname}
 Version:                %{globalversion}
 Release:                1%{?dist}
-Summary:                Go package implements the parts of the FIDO U2F
+Summary:                Go package implements the parts of the FIDO U2F.
 
 License:                MIT
 URL:                    %{gourl}

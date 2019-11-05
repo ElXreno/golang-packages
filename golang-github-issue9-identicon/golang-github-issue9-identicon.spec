@@ -15,7 +15,7 @@ any data such as the user's IP address and mailbox name.
 Name:                   %{goname}
 Version:                0
 Release:                1%{?dist}
-Summary:                A library for generating random avatar based on any data
+Summary:                A library for generating random avatar based on any data.
 
 License:                MIT
 URL:                    %{gourl}
